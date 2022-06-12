@@ -1,5 +1,5 @@
 # 内容：YouTube
-# 数量：26条
+# 数量：28条
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
@@ -25,4 +25,6 @@ USER-AGENT,*kakao*
 USER-AGENT,kakao*
 DOMAIN-KEYWORD,kakao
 DOMAIN-SUFFIX,kakao.net
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,tv.kakao.com
 DOMAIN-SUFFIX,kr
