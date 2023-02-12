@@ -4,3 +4,9 @@ DOMAIN,lens.l.google.com
 DOMAIN,voice.google.com
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,cloudflare.com
