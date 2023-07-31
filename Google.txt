@@ -740,6 +740,7 @@ twttr.com
 twttr.net
 twvid.com
 vine.co
+x.com
 bytedapm.com
 bytegecko-i18n.com
 bytegecko.com
