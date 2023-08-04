@@ -1,22 +1,20 @@
-name: Update iptv.txt
+name: Convert and Merge IPTV Lists
 
 on:
   schedule:
-    - cron:  '0 8 * * *'  # 每天运行一次
+    - cron: '35 9 * * *'  # This action runs every day at midnight.
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
+    - name: Checkout repository
       uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.x
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
@@ -24,13 +22,13 @@ jobs:
         pip install requests
 
     - name: Run script
-      run: python .github/workflows/iptv2.py  # 这个是你的python脚本的文件名
-
-    - name: Commit and push if changed
       run: |
-        git add iptv2.txt
+        python .github/workflows/iptv2.py
+
+    - name: Commit and push if it changed
+      run: |
         git diff
-        git config --global user.email "action@github.com"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "GitHub Action"
-        git commit -m "Update iptv2.txt" -a || echo "No changes to commit"
+        git commit -am "Update IPTV lists" || exit 0
         git push
