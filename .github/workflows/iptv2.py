@@ -31,6 +31,6 @@ for link in links:
 total_content = old_content + new_content
 
 # 将合并后的内容保存为新的文件
-with open('iptv.txt', 'w') as f:
+with open('iptv2.txt', 'w') as f:
     for line in total_content:
         f.write(line+'\n')
