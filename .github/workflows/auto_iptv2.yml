@@ -23,9 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: List files
-      run: ls -al
-  
     - name: Run script
       run: python .github/workflows/iptv2.py  # 这个是你的python脚本的文件名
 
