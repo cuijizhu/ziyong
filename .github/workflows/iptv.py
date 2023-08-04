@@ -14,7 +14,7 @@ def parse_m3u(m3u_url):
     return parsed_entries
 
 m3u_urls = [
-    "https://raw.githubusercontent.com/cuijizhu/clash/main/gxtv.m3u",
+    "https://raw.githubusercontent.com/cuijizhu/ziyong/main/gxtv.m3u",
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u",
     "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
     "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"
