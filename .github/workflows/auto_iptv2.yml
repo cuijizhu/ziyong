@@ -24,7 +24,7 @@ jobs:
         pip install requests
 
     - name: Run script
-      run: python script.py  # 这个是你的python脚本的文件名
+      run: python iptv2.py  # 这个是你的python脚本的文件名
 
     - name: Commit and push if changed
       run: |
