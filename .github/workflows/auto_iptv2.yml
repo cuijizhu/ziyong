@@ -2,7 +2,7 @@ name: Update iptv.txt
 
 on:
   schedule:
-    - cron:  '40 5 * * *'  # 每天运行一次
+    - cron:  '0 8 * * *'  # 每天运行一次
 
 jobs:
   build:
