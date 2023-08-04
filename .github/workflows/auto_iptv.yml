@@ -2,7 +2,7 @@ name: Daily IPTV Conversion
 
 on:
   schedule:
-    - cron: '10 3 * * *' # 每天 UTC 时间 00:00 执行一次
+    - cron: '55 3 * * *' # 每天 UTC 时间 00:00 执行一次
 
 jobs:
   auto_convert:
