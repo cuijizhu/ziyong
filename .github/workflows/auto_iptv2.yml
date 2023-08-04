@@ -2,7 +2,7 @@ name: Update iptv.txt
 
 on:
   schedule:
-    - cron:  '20 4 * * *'  # 每天运行一次
+    - cron:  '40 5 * * *'  # 每天运行一次
 
 jobs:
   build:
@@ -23,14 +23,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
+    - name: List files
+      run: ls -al
+  
     - name: Run script
       run: python iptv2.py  # 这个是你的python脚本的文件名
 
     - name: Commit and push if changed
       run: |
-        git add iptv.txt
+        git add iptv2.txt
         git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git commit -m "Update iptv.txt" -a || echo "No changes to commit"
+        git commit -m "Update iptv2.txt" -a || echo "No changes to commit"
         git push
