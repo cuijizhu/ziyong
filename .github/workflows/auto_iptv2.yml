@@ -2,7 +2,7 @@ name: Convert and Merge IPTV Lists
 
 on:
   schedule:
-    - cron: '35 9 * * *'  # This action runs every day at midnight.
+    - cron: '45 14 * * *'  # This action runs every day at midnight.
 
 jobs:
   build:
