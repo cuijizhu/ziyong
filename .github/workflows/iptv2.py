@@ -1,36 +1,36 @@
 import requests
 import re
 
-# 您要抓取的直播源链接
-links = [
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u",
-    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
-    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
+def download_and_convert(url, filename):
+    r = requests.get(url)
+    r.raise_for_status()
+
+    content = r.text
+    lines = content.split('\n')
+    formatted_lines = []
+    genre = url.split('/')[-1].replace('.m3u', '')
+    formatted_lines.append(f"{genre},#genre#\n")
+
+    for i in range(0, len(lines) - 1, 2):
+        match = re.search('"(.*?)",', lines[i])
+        if match:
+            name = match.group(1)
+            link = lines[i + 1].strip()
+            formatted_lines.append(f"{name},{link}\n")
+    
+    with open(filename, 'a') as f:
+        f.write('\n'.join(formatted_lines))
+
+# Copy content from gxtv.txt to iptv2.txt
+with open('gxtv.txt', 'r') as f1, open('iptv2.txt', 'w') as f2:
+    f2.write(f1.read())
+
+# The list of m3u file links to download and convert
+m3u_links = [
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u',
+    'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u',
+    'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u'
 ]
 
-def process_link(link):
-    genre = link.split('/')[-1].split('.')[0] # 获取文件名作为genre
-    content = requests.get(link).text.splitlines()
-    new_content = []
-    for i in range(0, len(content)-1, 2): # 每两行为一个单元进行处理
-        if content[i].startswith('#EXTINF'): # 确保此行是正确的信息行
-            # 使用正则表达式提取频道名和频道链接
-            channel_name = re.search(r',(.*)', content[i]).group(1)
-            channel_link = content[i+1]
-            new_content.append(','.join([genre, channel_name, channel_link]))
-    return new_content
-
-# 将已有的文件内容读入
-with open('gxtv.txt', 'r') as f:
-    old_content = f.read().splitlines()
-
-# 处理新的直播源链接并与旧的内容合并
-new_content = []
-for link in links:
-    new_content += process_link(link)
-total_content = old_content + new_content
-
-# 将合并后的内容保存为新的文件
-with open('iptv2.txt', 'w') as f:
-    for line in total_content:
-        f.write(line+'\n')
+for link in m3u_links:
+    download_and_convert(link, 'iptv2.txt')
