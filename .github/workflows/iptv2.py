@@ -1,6 +1,5 @@
 import requests
 import re
-import os
 
 def download_and_convert(url):
     r = requests.get(url)
@@ -32,8 +31,6 @@ with open('gxtv.txt', 'r') as f1, open('iptv2.txt', 'w') as f2:
 
 # Download and convert each m3u file, then append to iptv2.txt
 for link in m3u_links:
-    filename = os.path.basename(link)
-    name, _ = os.path.splitext(filename)
     formatted_content = download_and_convert(link)
     with open('iptv2.txt', 'a') as f:
-        f.write(name + ',#genre#\n' + formatted_content + '\n')
+        f.write(formatted_content)
