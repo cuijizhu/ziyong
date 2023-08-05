@@ -33,4 +33,4 @@ with open('gxtv.txt', 'r') as f1, open('iptv2.txt', 'w') as f2:
 for link in m3u_links:
     formatted_content = download_and_convert(link)
     with open('iptv2.txt', 'a') as f:
-        f.write(formatted_content)
+        f.write(formatted_content + '\n')  # 添加换行以分隔不同链接的内容
