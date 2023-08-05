@@ -18,19 +18,18 @@ def download_and_convert(url):
 
     return '\n'.join(formatted_lines)
 
-
 m3u_links = [
     'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u',
     'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u',
     'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u'
 ]
 
-# Copy content from gxtv.txt to iptv2.txt
-with open('gxtv.txt', 'r') as f1, open('iptv2.txt', 'w') as f2:
-    f2.write(f1.read())
-
-# Download and convert each m3u file, then append to iptv2.txt
+# 下载和转换所有m3u链接的内容
+merged_content = ""
 for link in m3u_links:
     formatted_content = download_and_convert(link)
-    with open('iptv2.txt', 'a') as f:
-        f.write(formatted_content + '\n')  # 添加换行以分隔不同链接的内容
+    merged_content += formatted_content + '\n'
+
+# 将合并后的内容保存到iptv2.txt文件
+with open('iptv2.txt', 'w') as f:
+    f.write(merged_content)
