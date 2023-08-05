@@ -1,42 +1,47 @@
+import os
 import requests
+import re
 
-# 从给定的URL获取直播源内容
-def get_m3u_content(url):
-    response = requests.get(url)
-    return response.text
+# 用于下载并转换文件的函数
+def download_and_convert(url):
+    r = requests.get(url)
+    r.raise_for_status()
 
-# 将直播源内容转换成指定格式
-def convert_to_iptv2_format(m3u_content):
-    lines = m3u_content.splitlines()
-    converted_lines = []
+    content = r.text
+    lines = content.split('\n')
+    formatted_lines = []
 
-    for i in range(0, len(lines), 2):
-        info_line = lines[i].split(' tvg-id="', 1)[1].split('",', 1)[1].strip()
-        url_line = lines[i+1].strip()
-        converted_lines.append(f"{info_line},{url_line}")
+    # 忽略 '#EXTM3U' 开头的行
+    lines = [line for line in lines if not line.startswith('#EXTM3U')]
 
-    return '\n'.join(converted_lines)
+    for i in range(0, len(lines) - 1, 2):
+        match = re.search('"(.*?)",', lines[i])
+        if match:
+            name = match.group(1)
+            link = lines[i + 1].strip()
+            formatted_lines.append(f"{name},{link}")
 
-# 将转换后的内容保存到iptv2.txt文件
-def save_to_iptv2_file(content):
-    with open('iptv2.txt', 'w') as file:
-        file.write(content)
+    return '\n'.join(formatted_lines)
 
-# 主函数
-def main():
-    urls = [
-        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u',
-        'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u',
-        'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u'
-    ]
 
-    merged_content = ""
-    for url in urls:
-        m3u_content = get_m3u_content(url)
-        converted_content = convert_to_iptv2_format(m3u_content)
-        merged_content += converted_content + '\n'
+m3u_links = [
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u',
+    'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u',
+    'https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u'
+]
 
-    save_to_iptv2_file(merged_content)
+# 如果 iptv2.txt 存在，删除它
+if os.path.exists('iptv2.txt'):
+    os.remove('iptv2.txt')
 
-if __name__ == "__main__":
-    main()
+# 从 gxtv.txt 复制内容到 iptv2.txt
+with open('gxtv.txt', 'r') as f1, open('iptv2.txt', 'w') as f2:
+    f2.write(f1.read())
+
+# 下载并转换每个 m3u 文件，然后追加到 iptv2.txt
+for link in m3u_links:
+    filename = os.path.basename(link)
+    name, _ = os.path.splitext(filename)
+    formatted_content = download_and_convert(link)
+    with open('iptv2.txt', 'a') as f:
+        f.write(formatted_content + '\n')
