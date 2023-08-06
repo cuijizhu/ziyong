@@ -1,240 +1,248 @@
-ABN.kr,https://vod2.abn.co.kr/IPHONE/abn.m3u8
-AlltheKPop.kr,https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
-AndongMBCTV.kr,http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-ArirangTV.kr,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV.kr,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV.kr,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV.kr,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV.kr,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV.kr,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV.kr,https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-BBSTV.kr,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-BTNTV.kr,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-BusanMBCTV.kr,https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-Cchannel.kr,https://ythls.onrender.com/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
-CGNTV.kr,https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
-ChannelA.kr,http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
-ChuncheonMBCTV.kr,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-ChungbukMBCTV.kr,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-CJBTV.kr,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-CJOnStyle.kr,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CJOnStylePlus.kr,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-CTSTV.kr,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-DaeguMBCTV.kr,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-DaejeonMBCTV.kr,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-EBS1TV.kr,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-EBS1TV.kr,https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS2TV.kr,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBSEnglish.kr,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBSKids.kr,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-EBSPlus1.kr,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-EBSPlus2.kr,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-EdailyTV.kr,https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
-GCN.kr,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-GCN.kr,https://ythls.onrender.com/channel/UCqGxkgVnPc7arUR7MdCi99g.m3u8
-GongyoungHomeShopping.kr,https://etv.publichs.com/live5.stream/playlist.m3u8
-GoodTV.kr,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-GSMyShop.kr,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-GSShop.kr,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-GugakTV.kr,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-GugbangTV.kr,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-GwangjuMBCTV.kr,https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-HomeShopping.kr,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-HyundaiHomeShopping.kr,https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-HyundaiHomeShoppingPlusShop.kr,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-JejuMBCTV.kr,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-JIBSTV.kr,http://123.140.197.22/stream/1/play.m3u8
-JobplusTV.kr,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-JobplusTV.kr,https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
-JTV.kr,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-KBCTV.kr,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS1TV.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS2TV.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBSDrama.kr,http://mytv.dothome.co.kr/ch/catv/2.php
-KBSDrama.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-KBSJoy.kr,http://mytv.dothome.co.kr/ch/catv/3.php
-KBSJoy.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-KBSKids.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-KBSLife.kr,http://mytv.dothome.co.kr/ch/catv/5.php
-KBSLife.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-KBSLiveCamDokDo.kr,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBSNewsD.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-KBSStory.kr,http://mytv.dothome.co.kr/ch/catv/4.php
-KBSStory.kr,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-KBSWorld.kr,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KBSWorld.kr,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-KBSWorld.kr,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-KCTV.kr,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-KNN.kr,http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-KoreaEconomyTV.kr,https://ythls.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
-KShopping.kr,https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-KTV.kr,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-LotteHomeShopping.kr,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-MaeilBusinessTV.kr,https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
-MBCDrama.kr,http://mytv.dothome.co.kr/ch/catv/26.php
-MBCGyeongnamChangwonTV.kr,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-MBCNet.kr,http://mytv.dothome.co.kr/ch/catv/28.php
-MBCTV.kr,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MokpoMBCTV.kr,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MTN.kr,http://183.110.27.87/mtnlive/720/playlist.m3u8
-NationalAssemblyTV.kr,https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
-NBS.kr,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-NHTV.kr,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-NSHomeShopping.kr,https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
-NSShopPlus.kr,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-RUTCTV.kr,http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-SENTV.kr,https://ythls.onrender.com/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
-ShinsegaeTVShopping.kr,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-ShoppingNT.kr,https://live.shoppingntmall.com/live/10011.m3u8
-SPOTV2.kr,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-SPOTV.kr,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-STB.kr,https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8
-TBCTV.kr,https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
-TBSeFM.kr,https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
-TBSTV.kr,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TJBTV.kr,http://1.245.74.5:1935/live/tv/.m3u8
-TomatoTV.kr,https://ythls.onrender.com/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
-TVChosun2.kr,#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-TVChosun.kr,#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-tvN.kr,http://210.210.155.37/dr9445/h/h20/index.m3u8
-UBCTV.kr,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-UlsanMBCTV.kr,https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
-WBCTV.kr,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-WBSTV.kr,http://157.245.196.186/live/livestream.m3u8
-WShopping.kr,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-YeosuMBCTV.kr,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-YonhapNewsTV.kr,https://ythls.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
-YTN.kr,https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
-YTNDMB.kr,https://ythls.onrender.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
-YTNScience.kr,https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
-YTN.kr,https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
+ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
+All The K-POP (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
+MBC Andong (안동MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+Arirang (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang (720p),http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang (720p),http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang (720p),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang (720p),https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang (720p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang (720p),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+BTN TV (1080p),https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+C Channel (1080p) [Not 24/7],https://ythls.onrender.com/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
+CGNTV (720p),https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+Channel A [Geo-blocked],http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC Chungbuk (MBC 충북) (720p) [Not 24/7],http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+SBS CJB (CJB청주방송) (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle Plus (540p),https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+CTS기독교TV (720p),https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+MBC Daegu (대구 MBC) (480p) [Not 24/7],https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC Daejeon (대전 MBC) (720p) [Not 24/7],https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+EBS 1 (400p),https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+EBS 1 (400p),https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS 2 (400p),https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS E (400p),https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS kids (400p),https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+EBS+ 1 (400p),https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+EBS+ 2 (400p),https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+Edaily TV (1080p) [Not 24/7],https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
+GCN24 Korean (720p) [Not 24/7],http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GCN24 Korean (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCqGxkgVnPc7arUR7MdCi99g.m3u8
+Gongyoung Shopping (720p),https://etv.publichs.com/live5.stream/playlist.m3u8
+GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+GS My Shop (1080p),https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+GS Shop (1080p),https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+GugakTV 국악방송 (1080p),https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7],https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+Home & Shopping (720p),https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+Hyundai Home Shopping (720p),https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+Hyundai Home Shopping Plus (720p),https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+SBS JIBS (JIBS SBS) (720p) [Not 24/7],http://123.140.197.22/stream/1/play.m3u8
+Job Plus TV (한국직업방송) (480p),http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+Job Plus TV (한국직업방송) (480p),https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
+SBS JTV (JTV전주방송) (406p) [Not 24/7],https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+SBS KBC (KBC 광주방송) (1080p) [Not 24/7],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS1 (720p),http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS2 (720p) [Not 24/7],http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Drama (480p),http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+KBS Joy (480p),http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Joy (480p),http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+KBS Kids (480p),http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Life (480p),http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS News D (720p),http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS Story (480p),http://mytv.dothome.co.kr/ch/catv/4.php
+KBS Story (480p),http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS World (720p),https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS World (Vietnamese Subtitles) (720p),https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+KBS World (720p),https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+KCTV 광주 CH05 (720p) [Not 24/7],http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+SBS KNN (KNN 부산경남대표방송) (450p) [Not 24/7],http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+Korea Economy TV (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
+KShopping (1080p),https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+Korea TV (1080p),https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+Lotte Home Shopping (720p),https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+Maeil Business TV (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
+MBC Drama (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/26.php
+MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7],https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+MBC Net (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/28.php
+MBC (1080p) [Not 24/7],http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MTN (720p),http://183.110.27.87/mtnlive/720/playlist.m3u8
+National Assembly TV (720p),https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+NBS Korea Agricultural Broadcasting (720p),https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NHTV (720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+NS Home Shopping (720p),https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+NS Shop Plus (720p),https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+RUTC TV (720p),http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+SEN TV (720p) [Not 24/7],https://ythls.onrender.com/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
+Shinsegae Shopping TV (720p),https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
+SPOTV2 (1080p),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+SPOTV (1080p),https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+STB (720p),https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8
+SBS TBC (TBC 대구방송) (540p) [Geo-blocked] [Not 24/7],https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
+TBS eFM (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
+TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+SBS TJB (1080p) [Not 24/7],http://1.245.74.5:1935/live/tv/.m3u8
+Tomato TV (720p) [Not 24/7],https://ythls.onrender.com/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
+TV Chosun 2 (720p),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+TV Chosun (720p),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+tvN Asia (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h20/index.m3u8
+SBS UBC (UBC 울산방송) (540p) [Not 24/7],http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+MBC Ulsan (울산 MBC) (540p) [Not 24/7],https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
+WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+WBS TV (720p),http://157.245.196.186/live/livestream.m3u8
+W Shopping (720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+Yonhap News TV (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
+YTN (1080p),https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+YTN DMB (720p) [Not 24/7],https://ythls.onrender.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
+YTN Science (720p) [Not 24/7],https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio (720p),http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio (720p),http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio (720p),http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio (720p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+JCN TV (1080p),https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+Korean Song Channel,http://live.kytv.co.kr:8080/hls/stream.m3u8
+tvN Movies (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h21/index.m3u8
+YTN Korean (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4k银河源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+欢笑剧场4K银河源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 CCTV4K-25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV16-4K-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV16-4K25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-https://huyaimg.msstatic.com/avatar/1056/57/5a06880da605e4a2d4811266a26727_180_135.jpg?1596018478&465496,http://159.75.85.63:35455/huya/shangdi
-https://huyaimg.msstatic.com/avatar/1033/7b/e6ce93da5ea071e47b179f3dad5431_180_135.jpg?1614151023&465495,http://159.75.85.63:35455/huya/28260962
-https://apic.douyucdn.cn/upload/avanew/face/201612/19/22/ffc06ea36674503b942c5537874e8a4e_big.jpg,http://159.75.85.63:35455/douyu/3916618
+虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
+虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
+斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-tvg-id=,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-tvg-id=,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-tvg-id=,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-tvg-id=,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-tvg-id=,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-tvg-id=,http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1678666137&from=40&popid=40&hms_devid=2153&prioritypopid=40&vqe=3
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+未知4K,http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1678666137&from=40&popid=40&hms_devid=2153&prioritypopid=40&vqe=3
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-tvg-id=,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+CCTV1 8M,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2 8M,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3 8M,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV4 8M,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5 8M,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+CCTV5+ 8M,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6 8M,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7 8M,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8 8M,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9 8M,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+CCTV10 8M,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+CCTV11 8M,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+CCTV12 8M,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+CCTV13 8M,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14 8M,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15 8M,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16 8M,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+江苏卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+广西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+四川卫视 8M,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+湖南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+东方卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+北京卫视 8M,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+天津卫视 8M,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视 8M,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+广东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视 8M,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+湖北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+东南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+云南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+贵州卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+海南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓 8M,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
+金鹰纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+上海第一财经 8M,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+上视新闻 8M,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+上海都市 8M,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+上海纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+东方影视 8M,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+五星体育 8M,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+上视外语 8M,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+七彩戏剧 8M,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+上海教育 8M,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+全纪实 8M,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+生活时尚 8M,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
+新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
+热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+健康养生 8M,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+百变课堂 8M,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
+中国教育-1 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+中国教育-4 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+卡酷少儿 8M,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+纪实科教 8M,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+茶频道 8M,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+炫动卡通 8M,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
+东方财经 8M,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 广西IPTV,#genre#
 CCTV-1综合,rtsp://116.11.15.81/PLTV/88888888/224/3221225536/10000100000000060000000000081865_0.smil?rrsip=113.12.86.196&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=:20211219145438,iptv7792947259,10.232.119.128,20211219145438,00000001000000050000000000000152,50F355DF1E4CDA2E6C3EA90751811FE1,-1,1,1,,,7,,,,4,END
 CCTV-2财经,rtsp://116.11.15.81/PLTV/88888888/224/3221225833/10000100000000060000000000837407_0.smil?rrsip=113.12.86.196&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=:20211219145438,iptv7792947259,10.232.119.128,20211219145438,00000001000000050000000000000477,50F355DF1E4CDA2E6C3EA90751811FE1,-1,1,1,,,7,,,,4,END
