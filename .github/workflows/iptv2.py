@@ -12,9 +12,9 @@ def extract_channels(content, genre):
 
     for i in range(len(lines)):
         if lines[i].startswith("#EXTINF"):
-            parts = lines[i].rsplit(",", 1)  # 使用rsplit从右边分隔一次，这样就能获取最后一个逗号后面的内容
+            parts = lines[i].rsplit(",", 1)
             if len(parts) == 2:
-                name = parts[1].strip()  # 这就是频道名称
+                name = parts[1].strip()
                 url = lines[i + 1].strip()
                 channels.append(f"{name},{url}")
     return channels
@@ -23,11 +23,13 @@ def main():
     all_channels = []
 
     with open("gxtv.txt", "r") as file:
-        existing_channels = file.readlines()
+        existing_channels = [line.strip() for line in file if line.strip()]
         all_channels.extend(existing_channels)
 
-    for url, genre in URLS:
+    for idx, (url, genre) in enumerate(URLS):
         response = requests.get(url)
+        if idx > 0:  # 如果不是第一个链接，添加一个空行来区分
+            all_channels.append('')
         all_channels.extend(extract_channels(response.text, genre))
 
     with open("iptv2.txt", "w") as file:
