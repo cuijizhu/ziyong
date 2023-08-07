@@ -3,7 +3,7 @@ import requests
 URLS = [
     ("https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u", "韩国IPTV,#genre#"),
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u", "4K/8K,#genre#"),
-    ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u", "百事通,#genre#")
+    ("https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u", "ChinaTV,#genre#")
 ]
 
 def extract_channels(content, genre):
