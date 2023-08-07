@@ -1,11 +1,11 @@
 name: Convert and Merge IPTV Lists
 
-on: 
-  workflow_dispatch:
+# on: 
+#  workflow_dispatch:
 
-# on:
-#  schedule:
-#    - cron: '30 3 * * *'  # This action runs every day at midnight.
+on:
+  schedule:
+    - cron: '30 3 * * *'  # This action runs every day at midnight.
 
 jobs:
   build:
@@ -26,7 +26,7 @@ jobs:
 
     - name: Run script
       run: |
-        python .github/workflows/iptv2.py
+        python .github/workflows/iptv.py
 
     - name: Commit and push if it changed
       run: |
