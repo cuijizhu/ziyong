@@ -1,5 +1,5 @@
 # 内容：KoreaSite
-# 数量：11条
+# 数量：3条
 # DOMAIN-SUFFIX,google.com #匹配域名后缀
 # DOMAIN-KEYWORD,google #匹配域名关键字
 # DOMAIN,google.com #匹配域名
@@ -7,17 +7,6 @@
 # SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 # DST-PORT,80 #匹配数据目标端口
 # SRC-PORT,7777 #匹配数据源端口
-USER-AGENT,*daum*
-USER-AGENT,daum*
-DOMAIN-KEYWORD,daum
-DOMAIN-SUFFIX,daum.net
-USER-AGENT,*kakao*
-USER-AGENT,kakao*
-DOMAIN-KEYWORD,kakao
-DOMAIN-SUFFIX,kakao.net
-DOMAIN-SUFFIX,kakao.com
-DOMAIN-SUFFIX,tv.kakao.com
-DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,wavve.com
 DOMAIN-KEYWORD,wavve
 DOMAIN-SUFFIX,typecast.ai
