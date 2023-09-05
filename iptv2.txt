@@ -206,7 +206,7 @@ Korea TV (1080p),https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 Lotte Home Shopping (720p),https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 Maeil Business TV (1080p),https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
 MBC Drama (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/26.php
-MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7],https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7],https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 MBC Net (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/28.php
 MTN (720p),http://183.110.27.87/mtnlive/720/playlist.m3u8
 National Assembly TV (720p),https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
