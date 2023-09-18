@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,pooq.co.kr
 DOMAIN-SUFFIX,sbs.co.kr
 DOMAIN-SUFFIX,kbs.co.kr
 DOMAIN-SUFFIX,imbc.com
+IP-CIDR,192.168.45.0/24
