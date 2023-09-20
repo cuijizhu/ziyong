@@ -167,8 +167,6 @@ Hyundai Home Shopping Plus (720p),https://dtvstreaming.hyundaihmall.com/newcjp3/
 JCN TV (1080p),https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 Job Plus TV (한국직업방송) (480p),http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 Job Plus TV (한국직업방송) (480p),https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
-KBS1 (720p),http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS2 (720p) [Not 24/7],http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Drama (480p),http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 KBS Joy (480p),http://mytv.dothome.co.kr/ch/catv/3.php
