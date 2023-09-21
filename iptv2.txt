@@ -250,6 +250,7 @@ YTN2 (720p) [Not 24/7],https://ythls.onrender.com/channel/UCDww6ExpwQS0TzmREIOo4
 YTN DMB (720p) [Not 24/7],https://ythls.onrender.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
 YTN Korean (1080p) [Not 24/7],https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 YTN Science (720p),https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+Tooniverse,http://code.vthanhtivi.pw/getlink/jptvvn/118/playlist.m3u8
 
 4K/8K,#genre#
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
