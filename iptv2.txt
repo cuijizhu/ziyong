@@ -203,7 +203,6 @@ MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumb
 MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC Net (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/28.php
 MBC News (1080p) [Not 24/7],https://ythls.onrender.com/video/q-Wv4Pvt-5A.m3u8
-MBC Ulsan (울산 MBC) (540p) [Not 24/7],https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
 MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 MTN (720p),http://183.110.27.87/mtnlive/720/playlist.m3u8
 National Assembly TV (720p),https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
