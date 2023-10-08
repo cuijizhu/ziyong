@@ -2,7 +2,7 @@ import requests
 
 URLS = [
     ("https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u", "韩国IPTV,#genre#"),
-    ("https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u", "ChinaTV,#genre#")
+    ("https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u", "ChinaTV,#genre#"),
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u", "4K/8K,#genre#"),
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u", "百事通,#genre#")
 ]
