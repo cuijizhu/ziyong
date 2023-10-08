@@ -7,6 +7,8 @@ URLS = [
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u", "百事通,#genre#")
 ]
 
+APT_URL = "https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt"
+
 def extract_channels(content, genre):
     lines = content.split("\n")
     channels = [genre]  # 把类型作为第一行加入
@@ -23,9 +25,10 @@ def extract_channels(content, genre):
 def main():
     all_channels = []
 
-    with open("https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt", "r") as file:
-        existing_channels = [line.strip() for line in file if line.strip()]
-        all_channels.extend(existing_channels)
+    # 获取aptv.txt的内容
+    response = requests.get(APT_URL)
+    existing_channels = [line.strip() for line in response.text.splitlines() if line.strip()]
+    all_channels.extend(existing_channels)
 
     for idx, (url, genre) in enumerate(URLS):
         response = requests.get(url)
