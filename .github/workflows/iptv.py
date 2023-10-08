@@ -33,7 +33,7 @@ def main():
             all_channels.append('')
         all_channels.extend(extract_channels(response.text, genre))
 
-    with open("iptv2.txt", "w") as file:
+    with open("iptv.txt", "w") as file:
         for channel in all_channels:
             file.write(channel + "\n")
 
