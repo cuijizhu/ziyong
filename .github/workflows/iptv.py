@@ -2,8 +2,9 @@ import requests
 
 URLS = [
     ("https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u", "韩国IPTV,#genre#"),
+    ("https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u", "ChinaTV,#genre#")
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u", "4K/8K,#genre#"),
-    ("https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u", "ChinaTV,#genre#")
+    ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u", "百事通,#genre#")
 ]
 
 def extract_channels(content, genre):
@@ -22,7 +23,7 @@ def extract_channels(content, genre):
 def main():
     all_channels = []
 
-    with open("gxtv.txt", "r") as file:
+    with open("https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt", "r") as file:
         existing_channels = [line.strip() for line in file if line.strip()]
         all_channels.extend(existing_channels)
 
