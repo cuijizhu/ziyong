@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
+IP-CIDR,150.230.42.49/32
+DST-PORT,853
