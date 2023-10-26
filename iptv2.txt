@@ -1468,6 +1468,12 @@ CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 福建经济,https://cntv.sbs/tv?auth=2310201855&id=fjjj
 福建公共,https://cntv.sbs/tv?auth=2310201855&id=fjgg
 福建教育,https://cntv.sbs/tv?auth=2310201855&id=fjjy
+北京新闻,https://cntv.sbs/tv/gh.php?id=bjxw
+北京文艺,https://cntv.sbs/tv/gh.php?id=bjwy
+北京影视,https://cntv.sbs/tv/gh.php?id=bjys
+北京体育休闲,https://cntv.sbs/tv/gh.php?id=bjtyxx
+北京财经,https://cntv.sbs/tv/gh.php?id=bjcj2
+北京生活,https://cntv.sbs/tv/gh.php?id=bjsh2
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1515,6 +1521,8 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
 文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
 兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
 明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
