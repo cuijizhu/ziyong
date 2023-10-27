@@ -1489,6 +1489,20 @@ CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
+云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
+云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
+云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
+新疆汉语经济,https://cntv.sbs/tv/xj.php?id=xjjj
+新疆体育健康,https://cntv.sbs/tv/xj.php?id=xjty
+新疆汉语信息,https://cntv.sbs/tv/xj.php?id=xjxx
+新疆少儿,https://cntv.sbs/tv/xj.php?id=xjse
+新疆汉语综艺,https://cntv.sbs/tv/xj.php?id=xjzy
+新疆维语新闻,https://cntv.sbs/tv/xj.php?id=wyxw
+新疆哈语新闻,https://cntv.sbs/tv/xj.php?id=hyxw
+新疆维语影视,https://cntv.sbs/tv/xj.php?id=wyys
+新疆哈语综艺,https://cntv.sbs/tv/xj.php?id=hyzy
+新疆维语经济,https://cntv.sbs/tv/xj.php?id=wyjj
 看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
 华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
 电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
@@ -1539,6 +1553,7 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
