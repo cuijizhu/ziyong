@@ -1493,16 +1493,6 @@ CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
 云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
 云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
-新疆汉语经济,https://cntv.sbs/tv/xj.php?id=xjjj
-新疆体育健康,https://cntv.sbs/tv/xj.php?id=xjty
-新疆汉语信息,https://cntv.sbs/tv/xj.php?id=xjxx
-新疆少儿,https://cntv.sbs/tv/xj.php?id=xjse
-新疆汉语综艺,https://cntv.sbs/tv/xj.php?id=xjzy
-新疆维语新闻,https://cntv.sbs/tv/xj.php?id=wyxw
-新疆哈语新闻,https://cntv.sbs/tv/xj.php?id=hyxw
-新疆维语影视,https://cntv.sbs/tv/xj.php?id=wyys
-新疆哈语综艺,https://cntv.sbs/tv/xj.php?id=hyzy
-新疆维语经济,https://cntv.sbs/tv/xj.php?id=wyjj
 看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
 华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
 电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
@@ -1553,8 +1543,8 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
@@ -1570,7 +1560,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 韩·EBS-2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 韩·EBS-2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 韩·EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-韩·KBC,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
 韩·阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩·阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
