@@ -1221,7 +1221,6 @@ CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 韩国IPTV,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
-All The K-POP (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 Arirang Radio (720p),http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 Arirang Radio (720p),http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
@@ -1238,7 +1237,6 @@ Arirang TV (720p),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:a
 Arirang TV UN (1080p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 BTN TV (1080p),https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-C Channel (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
 CGNTV (720p),https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
 Channel A [Geo-blocked],http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -1251,9 +1249,7 @@ EBS E (400p) [Not 24/7],https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/play
 EBS kids (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 EBS+ 1 (400p),https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 EBS+ 2 (400p),https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-Edaily TV (1080p),https://ythlsgo.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
 FGTV (720p),https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-GCN24 Korean (1080p),https://ythlsgo.onrender.com/channel/UCqGxkgVnPc7arUR7MdCi99g.m3u8
 GCN24 Korean (720p),http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 Gongyoung Shopping (720p),https://etv.publichs.com/live5.stream/playlist.m3u8
 GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
@@ -1286,12 +1282,10 @@ KBS World (720p),https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/ma
 KBS World (720p),https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS World (Vietnamese Subtitles) (720p),https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 KCTV 광주 CH05 (720p) [Not 24/7],http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-Korea Economy TV (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
 Korea TV (1080p),https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8
 KShopping (1080p),https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
 Lotte Home Shopping (720p),https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-Maeil Business TV (1080p),https://ythlsgo.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
 MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
@@ -1299,7 +1293,6 @@ MBC Chungbuk (MBC 충북) (720p) [Not 24/7],http://211.33.246.4:32954/cj_live/my
 MBC Daegu (대구 MBC) (480p) [Not 24/7],https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 MBC Daejeon (대전 MBC) (720p) [Not 24/7],https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MBC Drama (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/26.php
-MBC Every1 (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7],http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7],https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7],https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
@@ -1318,7 +1311,6 @@ OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7],https://vod.obs.co.kr:444/live/o
 OCN (576p),http://202.60.106.14:8080/207/playlist.m3u8
 OCN (576p),http://202.60.106.14:21585/207/playlist.m3u8
 OUN (1080p),https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-Pax Economy TV (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8
 RTV (720p),https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
 RUTC TV (720p),http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 SBS CJB (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
@@ -1328,20 +1320,16 @@ SBS JTV (406p) [Not 24/7],http://61.85.197.53:1935/jtv_live/myStream/playlist.m3
 SBS KBC (1080p) [Not 24/7],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 SBS KNN (1080p) [Not 24/7],https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 SBS KNN (450p) [Not 24/7],http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-SBS News (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 SBS TBC (540p) [Geo-blocked] [Not 24/7],http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 SBS TBC (540p) [Geo-blocked] [Not 24/7],https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 SBS TJB (1080p) [Not 24/7],http://1.245.74.5:1935/live/tv/.m3u8
 SBS UBC (540p) [Not 24/7],http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-SEN TV (720p) [Not 24/7],https://ythlsgo.onrender.com/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
 Shinsegae Shopping TV (720p),https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
 SPOTV (1080p),https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 SPOTV2 (1080p),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 STB (720p),https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8
-TBS eFM (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-Tomato TV (720p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
 TV Chosun (720p),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 TV Chosun 2 (720p),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 tvN Asia (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h20/index.m3u8
@@ -1349,13 +1337,10 @@ tvN Movies (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h21/index
 W Shopping (720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 WBS TV (720p),http://157.245.196.186/live/livestream.m3u8
-Yonhap News TV (1080p),https://ythlsgo.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
 YTN (1080p),https://ythlsgo.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 YTN (720p),http://202.60.106.14:8080/214/playlist.m3u8
 YTN (720p),http://202.60.106.14:21585/214/playlist.m3u8
-YTN2 (720p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 YTN DMB (720p) [Not 24/7],https://ythlsgo.onrender.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
-YTN Korean (1080p) [Not 24/7],https://ythlsgo.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 YTN Science (720p),https://ythlsgo.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 KBS1 (Daejeon) (720p),https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
 KBS1 (Gwangju) (720p),https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
@@ -1364,109 +1349,109 @@ KBS1 (Ulsan) (720p),https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS1 (Busan) (720p),https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
 
 ChinaTV,#genre#
-CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
-CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
-CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
-CCTV-4 中文国际,https://cntv.sbs/tv?auth=2310201855&id=cctv4
-CCTV-5 体育,https://cntv.sbs/tv?auth=2310201855&id=cctv5
-CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
-CCTV-6 电影,https://cntv.sbs/tv?auth=2310201855&id=cctv6
-CCTV-7 国防军事,https://cntv.sbs/tv?auth=2310201855&id=cctv7
-CCTV-8 电视剧,https://cntv.sbs/tv?auth=2310201855&id=cctv8
-CCTV-9 纪录,https://cntv.sbs/tv?auth=2310201855&id=cctv9
-CCTV-10 科教,https://cntv.sbs/tv?auth=2310201855&id=cctv10
-CCTV-11 戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
-CCTV-12 社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
-CCTV-13 新闻,https://cntv.sbs/tv?auth=2310201855&id=cctv13
-CCTV-14 少儿,https://cntv.sbs/tv?auth=2310201855&id=cctv14
-CCTV-15 音乐,https://cntv.sbs/tv?auth=2310201855&id=cctv15
-CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=2310201855&id=cctv16
-CCTV-17 农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
-CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
-北京卫视,https://cntv.sbs/tv?auth=2310201855&id=bjws
-东方卫视,https://cntv.sbs/tv?auth=2310201855&id=dfws
-天津卫视,https://cntv.sbs/tv?auth=2310201855&id=tjws
-重庆卫视,https://cntv.sbs/tv?auth=2310201855&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=2310201855&id=hljws
-吉林卫视,https://cntv.sbs/tv?auth=2310201855&id=jlws
-辽宁卫视,https://cntv.sbs/tv?auth=2310201855&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=2310201855&id=nmws
-宁夏卫视,https://cntv.sbs/tv?auth=2310201855&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=2310201855&id=gsws
-青海卫视,https://cntv.sbs/tv?auth=2310201855&id=qhws
-陕西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=2310201855&id=hbws
-山西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=2310201855&id=sdws
-安徽卫视,https://cntv.sbs/tv?auth=2310201855&id=ahws
-河南卫视,https://cntv.sbs/tv?auth=2310201855&id=hnws
-湖北卫视,https://cntv.sbs/tv?auth=2310201855&id=hubws
-湖南卫视,https://cntv.sbs/tv?auth=2310201855&id=hunws
-江西卫视,https://cntv.sbs/tv?auth=2310201855&id=jxws
-江苏卫视,https://cntv.sbs/tv?auth=2310201855&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=2310201855&id=zjws
-东南卫视,https://cntv.sbs/tv?auth=2310201855&id=dnws
-海峡卫视,https://cntv.sbs/tv?auth=2310201855&id=hxws
-厦门卫视,https://cntv.sbs/tv?auth=2310201855&id=xmws
-广东卫视,https://cntv.sbs/tv?auth=2310201855&id=gdws
-深圳卫视,https://cntv.sbs/tv?auth=2310201855&id=szws
-广西卫视,https://cntv.sbs/tv?auth=2310201855&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=2310201855&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=2310201855&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=2310201855&id=scws
-康巴卫视,https://cntv.sbs/tv?auth=2310201855&id=kbws
-海南卫视,https://cntv.sbs/tv?auth=2310201855&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=2310201855&id=ssws
-新疆卫视,https://cntv.sbs/tv?auth=2310201855&id=xjws
-兵团卫视,https://cntv.sbs/tv?auth=2310201855&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=2310201855&id=xzws
-西藏藏语卫视,https://cntv.sbs/tv?auth=2310201855&id=xzzyws
-CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
-CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
-CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
-北京纪实科教,https://cntv.sbs/tv?auth=2310201855&id=bjjskj
-纪实人文,https://cntv.sbs/tv?auth=2310201855&id=shjsrw
-动漫秀场,https://cntv.sbs/tv?auth=2310201855&id=dmxc
-哈哈炫动,https://cntv.sbs/tv?auth=2310201855&id=hhxd
-欢笑剧场,https://cntv.sbs/tv?auth=2310201855&id=hxjc
-欢笑剧场 4K,https://cntv.sbs/tv?auth=2310201855&id=hxjc4k
-都市剧场,https://cntv.sbs/tv?auth=2310201855&id=dsjc
-五星体育,https://cntv.sbs/tv?auth=2310201855&id=wxty
-劲爆体育,https://cntv.sbs/tv?auth=2310201855&id=jbty
-新视觉,https://cntv.sbs/tv?auth=2310201855&id=xsj
-游戏风云,https://cntv.sbs/tv?auth=2310201855&id=yxfy
-生活时尚,https://cntv.sbs/tv?auth=2310201855&id=shss
-金色学堂,https://cntv.sbs/tv?auth=2310201855&id=jspd
-乐游,https://cntv.sbs/tv?auth=2310201855&id=qjs
-魅力足球,https://cntv.sbs/tv?auth=2310201855&id=mlzq
-茶频道,https://cntv.sbs/tv?auth=2310201855&id=cpd
-快乐垂钓,https://cntv.sbs/tv?auth=2310201855&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=2310201855&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=2310201855&id=jykt
-嘉佳卡通,https://cntv.sbs/tv?auth=2310201855&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=2310201855&id=cftx
-中国天气,https://cntv.sbs/tv?auth=2310201855&id=zgtq
-上海新闻综合,https://cntv.sbs/tv?auth=2310201855&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=2310201855&id=shds
-上海ICS外语,https://cntv.sbs/tv?auth=2310201855&id=shics
-东方影视,https://cntv.sbs/tv?auth=2310201855&id=dfys
-七彩戏剧,https://cntv.sbs/tv?auth=2310201855&id=qcxj
-第一财经,https://cntv.sbs/tv?auth=2310201855&id=dycj
-法治天地,https://cntv.sbs/tv?auth=2310201855&id=fztd
-东方财经,https://cntv.sbs/tv?auth=2310201855&id=dfcj
-上海教育,https://cntv.sbs/tv?auth=2310201855&id=shjy
-东方购物,https://cntv.sbs/tv?auth=2310201855&id=dfgw
-浦东电视台,https://cntv.sbs/tv?auth=2310201855&id=pdtv
-福建综合,https://cntv.sbs/tv?auth=2310201855&id=fjzh
-福建新闻,https://cntv.sbs/tv?auth=2310201855&id=fjxw
-福建电视剧,https://cntv.sbs/tv?auth=2310201855&id=fjdsj
-福建文体,https://cntv.sbs/tv?auth=2310201855&id=fjwt
-福建少儿,https://cntv.sbs/tv?auth=2310201855&id=fjse
-福建旅游,https://cntv.sbs/tv?auth=2310201855&id=fjly
-福建经济,https://cntv.sbs/tv?auth=2310201855&id=fjjj
-福建公共,https://cntv.sbs/tv?auth=2310201855&id=fjgg
-福建教育,https://cntv.sbs/tv?auth=2310201855&id=fjjy
+CCTV-1 综合,https://cntv.homes/tv?auth=202311030915&id=cctv1
+CCTV-2 财经,https://cntv.homes/tv?auth=202311030915&id=cctv2
+CCTV-3 综艺,https://cntv.homes/tv?auth=202311030915&id=cctv3
+CCTV-4 中文国际,https://cntv.homes/tv?auth=202311030915&id=cctv4
+CCTV-5 体育,https://cntv.homes/tv?auth=202311030915&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.homes/tv?auth=202311030915&id=cctv5p
+CCTV-6 电影,https://cntv.homes/tv?auth=202311030915&id=cctv6
+CCTV-7 国防军事,https://cntv.homes/tv?auth=202311030915&id=cctv7
+CCTV-8 电视剧,https://cntv.homes/tv?auth=202311030915&id=cctv8
+CCTV-9 纪录,https://cntv.homes/tv?auth=202311030915&id=cctv9
+CCTV-10 科教,https://cntv.homes/tv?auth=202311030915&id=cctv10
+CCTV-11 戏曲,https://cntv.homes/tv?auth=202311030915&id=cctv11
+CCTV-12 社会与法,https://cntv.homes/tv?auth=202311030915&id=cctv12
+CCTV-13 新闻,https://cntv.homes/tv?auth=202311030915&id=cctv13
+CCTV-14 少儿,https://cntv.homes/tv?auth=202311030915&id=cctv14
+CCTV-15 音乐,https://cntv.homes/tv?auth=202311030915&id=cctv15
+CCTV-16 奥林匹克,https://cntv.homes/tv?auth=202311030915&id=cctv16
+CCTV-17 农业农村,https://cntv.homes/tv?auth=202311030915&id=cctv17
+CCTV-4K 超高清,https://cntv.homes/tv?auth=202311030915&id=cctv4k
+CCTV-16 4K,https://cntv.homes/tv?auth=202311030915&id=cctv164k
+北京卫视,https://cntv.homes/tv?auth=202311030915&id=bjws
+东方卫视,https://cntv.homes/tv?auth=202311030915&id=dfws
+天津卫视,https://cntv.homes/tv?auth=202311030915&id=tjws
+重庆卫视,https://cntv.homes/tv?auth=202311030915&id=cqws
+黑龙江卫视,https://cntv.homes/tv?auth=202311030915&id=hljws
+吉林卫视,https://cntv.homes/tv?auth=202311030915&id=jlws
+辽宁卫视,https://cntv.homes/tv?auth=202311030915&id=lnws
+内蒙古卫视,https://cntv.homes/tv?auth=202311030915&id=nmws
+宁夏卫视,https://cntv.homes/tv?auth=202311030915&id=nxws
+甘肃卫视,https://cntv.homes/tv?auth=202311030915&id=gsws
+青海卫视,https://cntv.homes/tv?auth=202311030915&id=qhws
+陕西卫视,https://cntv.homes/tv?auth=202311030915&id=sxws
+河北卫视,https://cntv.homes/tv?auth=202311030915&id=hbws
+山西卫视,https://cntv.homes/tv?auth=202311030915&id=sxiws
+山东卫视,https://cntv.homes/tv?auth=202311030915&id=sdws
+安徽卫视,https://cntv.homes/tv?auth=202311030915&id=ahws
+河南卫视,https://cntv.homes/tv?auth=202311030915&id=hnws
+湖北卫视,https://cntv.homes/tv?auth=202311030915&id=hubws
+湖南卫视,https://cntv.homes/tv?auth=202311030915&id=hunws
+江西卫视,https://cntv.homes/tv?auth=202311030915&id=jxws
+江苏卫视,https://cntv.homes/tv?auth=202311030915&id=jsws
+浙江卫视,https://cntv.homes/tv?auth=202311030915&id=zjws
+东南卫视,https://cntv.homes/tv?auth=202311030915&id=dnws
+海峡卫视,https://cntv.homes/tv?auth=202311030915&id=hxws
+厦门卫视,https://cntv.homes/tv?auth=202311030915&id=xmws
+广东卫视,https://cntv.homes/tv?auth=202311030915&id=gdws
+深圳卫视,https://cntv.homes/tv?auth=202311030915&id=szws
+广西卫视,https://cntv.homes/tv?auth=202311030915&id=gxws
+云南卫视,https://cntv.homes/tv?auth=202311030915&id=ynws
+贵州卫视,https://cntv.homes/tv?auth=202311030915&id=gzws
+四川卫视,https://cntv.homes/tv?auth=202311030915&id=scws
+康巴卫视,https://cntv.homes/tv?auth=202311030915&id=kbws
+海南卫视,https://cntv.homes/tv?auth=202311030915&id=hinws
+三沙卫视,https://cntv.homes/tv?auth=202311030915&id=ssws
+新疆卫视,https://cntv.homes/tv?auth=202311030915&id=xjws
+兵团卫视,https://cntv.homes/tv?auth=202311030915&id=btws
+西藏卫视,https://cntv.homes/tv?auth=202311030915&id=xzws
+西藏藏语卫视,https://cntv.homes/tv?auth=202311030915&id=xzzyws
+CETV1,https://cntv.homes/tv?auth=202311030915&id=cetv1
+CETV2,https://cntv.homes/tv?auth=202311030915&id=cetv2
+CETV4,https://cntv.homes/tv?auth=202311030915&id=cetv4
+北京纪实科教,https://cntv.homes/tv?auth=202311030915&id=bjjskj
+纪实人文,https://cntv.homes/tv?auth=202311030915&id=shjsrw
+动漫秀场,https://cntv.homes/tv?auth=202311030915&id=dmxc
+哈哈炫动,https://cntv.homes/tv?auth=202311030915&id=hhxd
+欢笑剧场,https://cntv.homes/tv?auth=202311030915&id=hxjc
+欢笑剧场 4K,https://cntv.homes/tv?auth=202311030915&id=hxjc4k
+都市剧场,https://cntv.homes/tv?auth=202311030915&id=dsjc
+五星体育,https://cntv.homes/tv?auth=202311030915&id=wxty
+劲爆体育,https://cntv.homes/tv?auth=202311030915&id=jbty
+新视觉,https://cntv.homes/tv?auth=202311030915&id=xsj
+游戏风云,https://cntv.homes/tv?auth=202311030915&id=yxfy
+生活时尚,https://cntv.homes/tv?auth=202311030915&id=shss
+金色学堂,https://cntv.homes/tv?auth=202311030915&id=jspd
+乐游,https://cntv.homes/tv?auth=202311030915&id=qjs
+魅力足球,https://cntv.homes/tv?auth=202311030915&id=mlzq
+茶频道,https://cntv.homes/tv?auth=202311030915&id=cpd
+快乐垂钓,https://cntv.homes/tv?auth=202311030915&id=klcd
+金鹰纪实,https://cntv.homes/tv?auth=202311030915&id=jyjs
+金鹰卡通,https://cntv.homes/tv?auth=202311030915&id=jykt
+嘉佳卡通,https://cntv.homes/tv?auth=202311030915&id=jjkt
+财富天下,https://cntv.homes/tv?auth=202311030915&id=cftx
+中国天气,https://cntv.homes/tv?auth=202311030915&id=zgtq
+上海新闻综合,https://cntv.homes/tv?auth=202311030915&id=shxwzh
+上海都市,https://cntv.homes/tv?auth=202311030915&id=shds
+上海ICS外语,https://cntv.homes/tv?auth=202311030915&id=shics
+东方影视,https://cntv.homes/tv?auth=202311030915&id=dfys
+七彩戏剧,https://cntv.homes/tv?auth=202311030915&id=qcxj
+第一财经,https://cntv.homes/tv?auth=202311030915&id=dycj
+法治天地,https://cntv.homes/tv?auth=202311030915&id=fztd
+东方财经,https://cntv.homes/tv?auth=202311030915&id=dfcj
+上海教育,https://cntv.homes/tv?auth=202311030915&id=shjy
+东方购物,https://cntv.homes/tv?auth=202311030915&id=dfgw
+浦东电视台,https://cntv.homes/tv?auth=202311030915&id=pdtv
+福建综合,https://cntv.homes/tv?auth=202311030915&id=fjzh
+福建新闻,https://cntv.homes/tv?auth=202311030915&id=fjxw
+福建电视剧,https://cntv.homes/tv?auth=202311030915&id=fjdsj
+福建文体,https://cntv.homes/tv?auth=202311030915&id=fjwt
+福建少儿,https://cntv.homes/tv?auth=202311030915&id=fjse
+福建旅游,https://cntv.homes/tv?auth=202311030915&id=fjly
+福建经济,https://cntv.homes/tv?auth=202311030915&id=fjjj
+福建公共,https://cntv.homes/tv?auth=202311030915&id=fjgg
+福建教育,https://cntv.homes/tv?auth=202311030915&id=fjjy
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1486,26 +1471,26 @@ CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
 云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
 云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
-看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=2310201855&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=2310201855&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=2310201855&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=2310201855&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=2310201855&id=bbdh
-百视通体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
-百视通体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
-百视通体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
-百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
-百视通体育5,https://cntv.sbs/tv?auth=2310201855&id=sport5
-百视通体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
-百视通体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
+看天下精选,https://cntv.homes/tv?auth=202311030915&id=ktxjx
+华语影院,https://cntv.homes/tv?auth=202311030915&id=hyyy
+电竞天堂,https://cntv.homes/tv?auth=202311030915&id=djtt
+青春动漫,https://cntv.homes/tv?auth=202311030915&id=qcdm
+星光影院,https://cntv.homes/tv?auth=202311030915&id=xgyy
+谍战剧场,https://cntv.homes/tv?auth=202311030915&id=dzjc
+全球大片,https://cntv.homes/tv?auth=202311030915&id=qqdp
+热门剧场,https://cntv.homes/tv?auth=202311030915&id=rmjc
+热门综艺,https://cntv.homes/tv?auth=202311030915&id=rmzy
+戏曲精选,https://cntv.homes/tv?auth=202311030915&id=xqjx
+健康养生,https://cntv.homes/tv?auth=202311030915&id=jkys
+百变课堂,https://cntv.homes/tv?auth=202311030915&id=bbkt
+宝宝动画,https://cntv.homes/tv?auth=202311030915&id=bbdh
+百视通体育1,https://cntv.homes/tv?auth=202311030915&id=sport1
+百视通体育2,https://cntv.homes/tv?auth=202311030915&id=sport2
+百视通体育3,https://cntv.homes/tv?auth=202311030915&id=sport3
+百视通体育4,https://cntv.homes/tv?auth=202311030915&id=sport4
+百视通体育5,https://cntv.homes/tv?auth=202311030915&id=sport5
+百视通体育6,https://cntv.homes/tv?auth=202311030915&id=sport6
+百视通体育7,https://cntv.homes/tv?auth=202311030915&id=sport7
 CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
@@ -1520,14 +1505,15 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
+翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
+明珠台,https://pi.0472.org/tv/mzt.php?auth=202311030915
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=202311030915
+星空卫视,https://pi.0472.org/tv/startv.php?auth=202311030915
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=202311030915
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,https://cntv.sbs/tv/lhws.php
+莲花卫视,https://cntv.homes/tv/lhws.php
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-CGTN,https://cntv.sbs/tv?auth=2310201855&id=cgtn
+CGTN,https://cntv.homes/tv?auth=202311030915&id=cgtn
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -1546,7 +1532,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩·阿里郎Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩·阿里郎Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 韩·GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
