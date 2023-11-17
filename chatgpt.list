@@ -4,12 +4,24 @@
 # DOMAIN,voice.google.com
 # DOMAIN-SUFFIX,voice.google.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN,ai.cn
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,wavve.com
 DOMAIN-KEYWORD,wavve
 DOMAIN-SUFFIX,typecast.ai
