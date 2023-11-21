@@ -1358,7 +1358,7 @@ CCTV-10 科教,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv10HD
 CCTV-11 戏曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
 CCTV-12 社会与法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
 CCTV-13 新闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
-CCTV-14 少儿,https://cntv.lat/tv/live.php?auth=231110&id=cctvseHD
+CCTV-14 少儿,https://cntv.lat/tv/cctv.php?auth=231110&id=cctvseHD
 CCTV-15 音乐,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
 CCTV-16 奥林匹克,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
 CCTV-17 农业农村,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv17HD
