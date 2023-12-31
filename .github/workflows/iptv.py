@@ -4,6 +4,7 @@ URLS = [
     ("https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u", "韩国IPTV,#genre#"),
     ("https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u", "ChinaTV,#genre#"),
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u", "4K/8K,#genre#"),
+    ("https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u", "BigGrandG源,#genre#"),
     ("https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u", "IPV6,#genre#")
 ]
 
