@@ -207,8 +207,6 @@ fastlane.tools
 feedburner.com
 fflick.com
 financeleadsonline.com
-firebase.com
-firebase.io
 firebaseapp.com
 firebaseio.com
 flutter.dev
@@ -229,9 +227,7 @@ gerritcodereview.com
 get.app
 get.dev
 get.how
-get.new
 get.page
-get.rsvp
 getbumptop.com
 getmdl.io
 getoutline.org
@@ -257,7 +253,6 @@ goo.gl
 googel.com
 googil.com
 googl.com
-google-access.net
 google-analytics-cn.com
 google-analytics.com
 google-syndication.com
@@ -288,7 +283,6 @@ google.ci
 google.cl
 google.cm
 google.cn
-google.co
 google.co.ao
 google.co.bw
 google.co.ck
@@ -508,7 +502,6 @@ googletraveladservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
 googleventures.com
-googlezip.net
 googlr.com
 goolge.com
 gooogle.com
@@ -529,9 +522,7 @@ gvt6.com
 gvt7.com
 gvt9.com
 gwtproject.org
-haplorrhini.com
 hdrplusdata.org
-hey.boo
 hey.gle
 hindiweb.com
 howtogetmo.co.uk
@@ -539,7 +530,6 @@ html5rocks.com
 hwgo.com
 iam.soy
 iamremarkable.org
-idx.dev
 igoogle.com
 impermium.com
 itasoftware.com
@@ -547,8 +537,6 @@ j2objc.org
 jibemobile.com
 kaggle.com
 kaggle.io
-kaggle.net
-kaggleusercontent.com
 keyhole.com
 keytransparency.com
 keytransparency.foo
@@ -568,7 +556,6 @@ moodstocks.com
 near.by
 nest.com
 neverware.com
-new.day
 nomulus.foo
 oasisfeng.com
 oauthz.com
@@ -660,7 +647,6 @@ stxmosquitoproject.net
 stxmosquitoproject.org
 synergyse.com
 teachparentstech.org
-telephony.goog
 tensorflow.org
 tfhub.dev
 thecleversense.com
