@@ -8,3 +8,14 @@
 # DST-PORT,80 #匹配数据目标端口
 # SRC-PORT,7777 #匹配数据源端口
 DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,wavve.com
+DOMAIN-KEYWORD,wavve
+DOMAIN-SUFFIX,typecast.ai
+DOMAIN-SUFFIX,tving.com
+DOMAIN-SUFFIX,pooq.co.kr
+DOMAIN-SUFFIX,sbs.co.kr
+DOMAIN-SUFFIX,kbs.co.kr
+DOMAIN-SUFFIX,imbc.com
+DOMAIN-SUFFIX,coupang.com
+DOMAIN-SUFFIX,coupangcdn.com
+DOMAIN-KEYWORD,coupang
