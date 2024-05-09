@@ -111,6 +111,7 @@ KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS World HD (1080p),https://ctrl.laotv.la/live/KBS/index.m3u8
 KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
 KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
+KBS Kids (480p),http://mytv.dothome.co.kr/ch/catv/6.php
 
 ChinaTV,#genre#
 
