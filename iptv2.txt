@@ -116,8 +116,8 @@ KBS Kids (480p),http://mytv.dothome.co.kr/ch/catv/6.php
 ChinaTV,#genre#
 
 4K/8K,#genre#
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/sdr4kvideo/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/hlg4kvideo/playad.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000011651&amp;livemode=1&amp;stbId=3
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -2540,8 +2540,8 @@ iHOT爱家庭,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 IPV6,#genre#
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/sdr4kvideo/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/hlg4kvideo/playad.m3u8
 CCTV-1 综合[1920x1080],http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226153/1.m3u8
 CCTV-1 综合[1920x1080],http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226733/1.m3u8
 CCTV-1 综合[1920x1080],http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226247/1.m3u8
