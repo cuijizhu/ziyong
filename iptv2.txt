@@ -104,6 +104,8 @@ Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
 STB (720p),https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8
 TV Chosun (720p),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 TV Chosun 2 (720p),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+tvN Asia (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h20/index.m3u8
+tvN Movies (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h21/index.m3u8
 W Shopping (720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 WBS TV (720p),http://157.245.196.186/live/livestream.m3u8
