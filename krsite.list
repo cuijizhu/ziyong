@@ -8,6 +8,8 @@
 # DST-PORT,80 #匹配数据目标端口
 # SRC-PORT,7777 #匹配数据源端口
 DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,wavve.com
 DOMAIN-KEYWORD,wavve
 DOMAIN-SUFFIX,typecast.ai
