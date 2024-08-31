@@ -7,10 +7,10 @@
 # SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 # DST-PORT,80 #匹配数据目标端口
 # SRC-PORT,7777 #匹配数据源端口
+# IP-CIDR,1.242.170.76/32,🎯 全球直连
+# IP-CIDR,125.240.246.51/32,🎯 全球直连
 DST-PORT,9993,🎯 全球直连
 DST-PORT,5555,🎯 全球直连
-IP-CIDR,1.242.170.76/32,🎯 全球直连
-IP-CIDR,125.240.246.51/32,🎯 全球直连
 DOMAIN-SUFFIX,777998.xyz,🎯 全球直连
 DOMAIN-SUFFIX,myip.la,🎯 全球直连
 DOMAIN-SUFFIX,ip.sb,🎯 全球直连
