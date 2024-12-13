@@ -33,3 +33,17 @@ DOMAIN-SUFFIX,dyndns.org,🎯 全球直连
 DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
 DOMAIN-SUFFIX,cn.nbai.tech,🎯 全球直连
 DOMAIN-SUFFIX,oaifree.com,🎯 全球直连
+DOMAIN-SUFFIX,inner-active.mobi,🎯 全球直连
+DOMAIN-SUFFIX,mobilefuse.com,🎯 全球直连
+DOMAIN-SUFFIX,inmobi.com,🎯 全球直连
+DOMAIN-SUFFIX,crashlytics.com,🎯 全球直连
+DOMAIN-SUFFIX,talkatone.com,🎯 全球直连
+DOMAIN-SUFFIX,kochava.com,🎯 全球直连
+DOMAIN-SUFFIX,cohere.com,🎯 全球直连
+DOMAIN-SUFFIX,ip-api.com,🎯 全球直连
+DOMAIN-SUFFIX,agkn.com,🎯 全球直连
+DOMAIN-SUFFIX,tktn.at,🎯 全球直连
+IP-CIDR,50.117.27.0/24,🎯 全球直连,no-resolve
+IP-CIDR,69.46.75.0/24,🎯 全球直连,no-resolve
+IP-CIDR,205.164.56.0/24,🎯 全球直连,no-resolve
+IP-CIDR,63.251.124.0/24,🎯 全球直连,no-resolve
