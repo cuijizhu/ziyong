@@ -7,43 +7,43 @@
 # SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 # DST-PORT,80 #匹配数据目标端口
 # SRC-PORT,7777 #匹配数据源端口
-# IP-CIDR,1.242.170.76/32,🎯 全球直连
-# IP-CIDR,125.240.246.51/32,🎯 全球直连
-DST-PORT,9993,🎯 全球直连
-DST-PORT,5555,🎯 全球直连
-DOMAIN-SUFFIX,777998.xyz,🎯 全球直连
-DOMAIN-SUFFIX,myip.la,🎯 全球直连
-DOMAIN-SUFFIX,ip.sb,🎯 全球直连
-DOMAIN-SUFFIX,ipapi.co,🎯 全球直连
-DOMAIN-SUFFIX,ip-api.com,🎯 全球直连
-DOMAIN-SUFFIX,extreme-ip-lookup.com,🎯 全球直连
-DOMAIN-SUFFIX,ip.seeip.org,🎯 全球直连
-DOMAIN-SUFFIX,freegeoip.app,🎯 全球直连
-DOMAIN-SUFFIX,wpxz.org,🎯 全球直连
-DOMAIN-SUFFIX,xftld.xyz,🎯 全球直连
-DOMAIN-SUFFIX,xftld.org,🎯 全球直连
-DOMAIN-SUFFIX,xftld.top,🎯 全球直连
-DOMAIN-SUFFIX,synology.cn,🎯 全球直连
-DOMAIN-SUFFIX,synology.com,🎯 全球直连
-DOMAIN-SUFFIX,quickconnect.to,🎯 全球直连
-DOMAIN-SUFFIX,quickconnect.cn,🎯 全球直连
-DOMAIN-SUFFIX,akamai.com,🎯 全球直连
-DOMAIN-SUFFIX,dyndns.com,🎯 全球直连
-DOMAIN-SUFFIX,dyndns.org,🎯 全球直连
-DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
-DOMAIN-SUFFIX,cn.nbai.tech,🎯 全球直连
-DOMAIN-SUFFIX,oaifree.com,🎯 全球直连
-DOMAIN-SUFFIX,inner-active.mobi,🎯 全球直连
-DOMAIN-SUFFIX,mobilefuse.com,🎯 全球直连
-DOMAIN-SUFFIX,inmobi.com,🎯 全球直连
-DOMAIN-SUFFIX,crashlytics.com,🎯 全球直连
-DOMAIN-SUFFIX,talkatone.com,🎯 全球直连
-DOMAIN-SUFFIX,kochava.com,🎯 全球直连
-DOMAIN-SUFFIX,cohere.com,🎯 全球直连
-DOMAIN-SUFFIX,ip-api.com,🎯 全球直连
-DOMAIN-SUFFIX,agkn.com,🎯 全球直连
-DOMAIN-SUFFIX,tktn.at,🎯 全球直连
-IP-CIDR,50.117.27.0/24,🎯 全球直连,no-resolve
-IP-CIDR,69.46.75.0/24,🎯 全球直连,no-resolve
-IP-CIDR,205.164.56.0/24,🎯 全球直连,no-resolve
-IP-CIDR,63.251.124.0/24,🎯 全球直连,no-resolve
+# IP-CIDR,1.242.170.76/32
+# IP-CIDR,125.240.246.51/32
+DST-PORT,9993
+DST-PORT,5555
+DOMAIN-SUFFIX,777998.xyz
+DOMAIN-SUFFIX,myip.la
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,extreme-ip-lookup.com
+DOMAIN-SUFFIX,ip.seeip.org
+DOMAIN-SUFFIX,freegeoip.app
+DOMAIN-SUFFIX,wpxz.org
+DOMAIN-SUFFIX,xftld.xyz
+DOMAIN-SUFFIX,xftld.org
+DOMAIN-SUFFIX,xftld.top
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,acl4.ssr
+DOMAIN-SUFFIX,cn.nbai.tech
+DOMAIN-SUFFIX,oaifree.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
