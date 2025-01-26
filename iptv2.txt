@@ -16,7 +16,6 @@ Arirang TV (720p),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:a
 Arirang TV UN (1080p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 BTN TV (1080p),https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-CGNTV (720p),https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
 Channel A [Geo-blocked],http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle Plus (540p),https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
