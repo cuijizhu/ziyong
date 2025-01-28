@@ -16,6 +16,7 @@ Arirang TV (720p),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:a
 Arirang TV UN (1080p),https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 BTN TV (1080p),https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 Channel A [Geo-blocked],http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle Plus (540p),https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
@@ -112,7 +113,6 @@ WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785
 WBS TV (720p),http://157.245.196.186/live/livestream.m3u8
 YTN (720p),http://202.60.106.14:8080/214/playlist.m3u8
 YTN (720p),http://202.60.106.14:21585/214/playlist.m3u8
-CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 
 ChinaTV,#genre#
 
