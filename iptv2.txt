@@ -18,6 +18,7 @@ BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/live
 BTN TV (1080p),https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 Channel A [Geo-blocked],http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+Channel A (360p),http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle Plus (540p),https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 CTS기독교TV (720p),https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
@@ -43,7 +44,6 @@ JCN TV (1080p),https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 Job Plus TV (한국직업방송) (480p),http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 Job Plus TV (한국직업방송) (480p),https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
 KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
-KBS 1 UHD (720p),http://202.60.106.14:8080/200/playlist.m3u8
 KBS 1 UHD (720p),http://202.60.106.14:21585/200/playlist.m3u8
 KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
 KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
@@ -74,6 +74,7 @@ MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumb
 MBC Jeonju (450p),https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
 MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC Net (480p) [Geo-blocked],http://mytv.dothome.co.kr/ch/catv/28.php
+MBC TV (720p),http://www.hwado.net/webtv/catv/503_CFEA7803.php
 MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 MTN (720p),http://183.110.27.87/mtnlive/720/playlist.m3u8
 National Assembly TV (720p),https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
@@ -87,6 +88,7 @@ OCN (576p),http://202.60.106.14:21585/207/playlist.m3u8
 OUN (1080p),https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 RTV (720p),https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
 RUTC TV (720p),http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+SBS (480p),http://www.hwado.net/webtv/catv/502_76142D8F.php
 SBS CJB (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 SBS G1 (360p) [Not 24/7],http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 SBS JIBS (720p) [Not 24/7],http://123.140.197.22/stream/1/play.m3u8
@@ -110,9 +112,6 @@ WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785
 WBS TV (720p),http://157.245.196.186/live/livestream.m3u8
 YTN (720p),http://202.60.106.14:8080/214/playlist.m3u8
 YTN (720p),http://202.60.106.14:21585/214/playlist.m3u8
-SBS (480p),http://www.hwado.net/webtv/catv/502_76142D8F.php
-Channel A (360p),http://www.hwado.net/webtv/catv/52_440DDPPJ.php
-MBC TV (720p),http://www.hwado.net/webtv/catv/503_CFEA7803.php
 
 ChinaTV,#genre#
 
